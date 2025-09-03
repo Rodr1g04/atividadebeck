@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1756475242501" clover="3.2.0">
+  <project timestamp="1756475242501" name="All files">
+    <metrics statements="6" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1" elements="12" coveredelements="3" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\Users\2324291028\aulas\aula05\src\index.js">
+      <metrics statements="6" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
