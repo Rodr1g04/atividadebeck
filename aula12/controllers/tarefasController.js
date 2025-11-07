@@ -1,4 +1,4 @@
-const model = require("../models/tarefaModel");
+const model = require("../model/tarefaModel");
 const listarTarefas = (req, res) => {
   const tarefas = model.listar();
   res.json(tarefas);
